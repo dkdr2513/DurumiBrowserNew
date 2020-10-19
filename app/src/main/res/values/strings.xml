@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DurumiBrowser</string>
+    <string name="edit_text_default_string">어디가고싶냥, 궁금한거라두?</string>
+    <string name="Search_description">Search</string>
+    <string name="back_button">Back_button</string>
+</resources>
